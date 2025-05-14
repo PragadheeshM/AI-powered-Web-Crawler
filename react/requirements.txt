@@ -1,0 +1,13 @@
+flask
+flask-cors
+langchain
+chromadb
+huggingface-hub
+transformers
+groq
+sentence-transformers
+requests
+python-dotenv
+beautifulsoup4
+langchainhub
+langchain-community
