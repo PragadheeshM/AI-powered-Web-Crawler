@@ -1,7 +1,0 @@
-streamlit
-langchain
-chromadb
-sentence-transformers
-requests
-python-dotenv
-beautifulsoup4
