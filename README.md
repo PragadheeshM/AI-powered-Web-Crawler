@@ -81,7 +81,7 @@ You receive a highly relevant answer!
 
 
 ---
-###🙌 Acknowledgments
+### 🙌 Acknowledgments
 LangChain
 
 Groq
