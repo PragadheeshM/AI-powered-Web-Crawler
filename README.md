@@ -1,7 +1,7 @@
 # 🧠 Web RAG Chatbot with React + Flask + Groq
 
 This is a full-stack Retrieval-Augmented Generation (RAG) application that lets users ask questions about web content. It uses a React frontend and a Flask backend integrated with Groq's LLaMA3 model to generate context-aware answers from any web URL using LangChain's `WebBaseLoader`.
-![fronted page](./Screenshot 2025-05-11 210131.png)
+![front page](./SScreenshot 2025-05-11 210131).
 ## 🚀 Features
 
 - 🌐 **Scrape any website** and convert it into vector embeddings
@@ -23,9 +23,6 @@ This is a full-stack Retrieval-Augmented Generation (RAG) application that lets 
 - **Embeddings:** HuggingFace (`all-MiniLM-L6-v2`)
 - **PDF Generator:** FPDF
 - **Environment Management:** `dotenv`
-
----
-
 
 ---
 
@@ -79,7 +76,7 @@ Your query + history is processed through Groq LLaMA3
 You receive a highly relevant answer!
 
 ###📸 Architecture
-![architecture](RAG arch.png)
+![architecture](RAG arch.png).
 
 
 
